@@ -1,0 +1,6 @@
+{
+  "name": "Carta Eterna — Para el Amor de Mi Vida",
+  "description": "Una experiencia interactiva y carta digital animada con GSAP, música romántica y recuerdos revelables diseñada especialmente para ti.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
